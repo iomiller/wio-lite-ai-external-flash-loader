@@ -10,7 +10,7 @@ An STM32CubeProgrammer / STM32CubeIDE external flash loader (`.stldr`) for the 1
 
 Open the project in STM32CubeIDE and build the **Release** configuration. The build outputs `STM32CubeIDE/Release/W25Q128JVSIQ_STM32H725AEI6_WIO_LITE_AI.elf`.
 
-(The preserved `.stldr` build artifact is located in the project root directory)
+(The preserved `W25Q128JVSIQ_STM32H725AEI6_WIO_LITE_AI.stldr` build artifact is located in the project root directory)
 
 ## Install
 
